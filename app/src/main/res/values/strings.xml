@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Spinner</string>
+    <string name="language_type">Programming languages:</string>
+</resources>
